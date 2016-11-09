@@ -1,0 +1,6 @@
+framework module Pods_policyBox {
+  umbrella header "Pods-policyBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
